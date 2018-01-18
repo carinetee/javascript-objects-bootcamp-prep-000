@@ -1,3 +1,3 @@
-var playlist = new Object {
+var playlist = {
   Beyonce: "All The Single Ladies"
 };
